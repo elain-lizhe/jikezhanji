@@ -18,4 +18,3 @@ aga = sim * las
 hero.moveXY(43, 26)
 hero.say(aga)
 # 去'Agata'并告诉她她的电话号码。
-
