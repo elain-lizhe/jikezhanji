@@ -12,3 +12,14 @@ print('''line1   #line1
 ... line2        #line2
 ... line3''')    #line3
 #命令行内输入，注意在输入多行内容时，提示符由>>>变为...，提示你可以接着上一行输入，注意...是提示符，不是代码的一部分
+
+print(r'''hello,\n  # hello,\n
+world''')           # world
+
+if age >= 18:
+    print("adult")
+else:
+    print("teenager")
+
+10 // 3 # 3 //，称为地板除，两个整数的除法仍然是整数
+10 % 3  # 1 %,两个整数相除的余数
